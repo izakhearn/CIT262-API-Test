@@ -1,0 +1,17 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "This is a CIT262 NodeJS Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "hello": "node helloworld.js",
+    "start": "node server.js"
+  },
+  "author": "Izak Hearn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
