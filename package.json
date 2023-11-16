@@ -6,12 +6,13 @@
   "scripts": {
     "test": "mocha",
     "hello": "node helloworld.js",
-    "start": "node server.js"
+    "start": "node server.cjs"
   },
   "author": "Izak Hearn",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
     "mocha": "^10.2.0"
-  }
+  },
+  "type": "module"
 }
