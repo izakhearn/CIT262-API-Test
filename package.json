@@ -4,7 +4,7 @@
   "description": "This is a CIT262 NodeJS Example",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --exit",
     "hello": "node helloworld.js",
     "start": "node server.cjs"
   },

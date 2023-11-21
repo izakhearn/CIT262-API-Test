@@ -23,4 +23,8 @@ describe("izak", () => {
     }
 );
 
+//Close the app for chai
+
+
+
 // Path: test/izak.test.js
