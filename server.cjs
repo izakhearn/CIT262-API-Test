@@ -13,3 +13,5 @@ app.get("/izak", (req, res) => {
 });
 
 app.listen(port, () => console.log("Listening"));
+
+module.exports = app;
